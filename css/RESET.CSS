@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Gruppo&family=Righteous&family=Sedgwick+Ave+Display&family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Rubik+Mono+One&family=Rubik:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Climate+Crisis&family=Oi&family=Rammetto+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair:ital,opsz@1,5..1200&family=Roboto+Slab:wght@300&display=swap');
+    /* font-family: 'Cabin', sans-serif; */
+    /* font-family: 'Gruppo', sans-serif; */
+    /* font-family: 'Righteous', sans-serif; */
+    /* font-family: 'Sedgwick Ave Display', cursive; */
+    /* font-family: 'Zeyada', cursive; */
+
+    /* font-family: 'Playfair', serif; */
+    /* font-family: 'Roboto Slab', serif; */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+body {
+    font-family: 'Gruppo', sans-serif;
+    /* font-family: 'Roboto Slab', serif; */
+    /* font-family: 'Dancing Script', cursive; */
+    font-size: 16px;
+    color: #333;
+}
+
+.logo{
+    /* font-family: 'Zeyada', cursive; */
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.sns svg{
+    width: 20px;
+    height: 20px;
+}
+
+.visual .text h2, .work_inner h3, .news_inner h3{
+    font-family: 'Zeyada', cursive;
+}
+
+button{
+    font-family: 'Gruppo', sans-serif;
+}
