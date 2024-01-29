@@ -42,6 +42,7 @@ body {
 .logo{
     /* font-family: 'Zeyada', cursive; */
     font-family: 'Sedgwick Ave Display', cursive;
+    text-transform: uppercase;
 }
 
 .sns svg{
